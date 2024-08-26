@@ -19,7 +19,11 @@ namespace AccesoADatos
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Producto>()
-                .HasKey(p => p.IdProducto); 
+                .HasKey(p => p.IdProducto);
+
+            modelBuilder.Entity<Producto>()
+               .Property(p => p.Precio)
+               .HasPrecision(18,2);
         }
     }
 }

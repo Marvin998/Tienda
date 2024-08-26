@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using Modelos;
 using System;
 using Microsoft.EntityFrameworkCore;
-using System.Data.Entity.Infrastructure;
 
 namespace API_Tienda.Controllers
 {
@@ -49,7 +48,7 @@ namespace API_Tienda.Controllers
             return CreatedAtAction(nameof(GetProducto), new { id = producto.IdProducto }, producto);
         }
 
-        // PUT: api/Productos/5
+        // PUT: api/Productos/4
         [HttpPut("{id}")]
         public async Task<IActionResult> PutProducto(int id, Producto producto)
         {
@@ -64,7 +63,7 @@ namespace API_Tienda.Controllers
             {
                 await _context.SaveChangesAsync();
             }
-            catch (System.Data.Entity.Infrastructure.DbUpdateConcurrencyException)
+            catch (DbUpdateConcurrencyException)
             {
                 if (!ProductoExists(id))
                 {

@@ -1,5 +1,4 @@
 C:\repo\tareareenviodte\API_Tienda\AccesoADatos\bin\Debug\net6.0\AccesoADatos.deps.json
-C:\repo\tareareenviodte\API_Tienda\AccesoADatos\bin\Debug\net6.0\AccesoADatos.runtimeconfig.json
 C:\repo\tareareenviodte\API_Tienda\AccesoADatos\bin\Debug\net6.0\AccesoADatos.dll
 C:\repo\tareareenviodte\API_Tienda\AccesoADatos\bin\Debug\net6.0\AccesoADatos.pdb
 C:\repo\tareareenviodte\API_Tienda\AccesoADatos\bin\Debug\net6.0\Modelos.dll
@@ -13,5 +12,4 @@ C:\repo\tareareenviodte\API_Tienda\AccesoADatos\obj\Debug\net6.0\AccesoADatos.cs
 C:\repo\tareareenviodte\API_Tienda\AccesoADatos\obj\Debug\net6.0\AccesoADatos.dll
 C:\repo\tareareenviodte\API_Tienda\AccesoADatos\obj\Debug\net6.0\refint\AccesoADatos.dll
 C:\repo\tareareenviodte\API_Tienda\AccesoADatos\obj\Debug\net6.0\AccesoADatos.pdb
-C:\repo\tareareenviodte\API_Tienda\AccesoADatos\obj\Debug\net6.0\AccesoADatos.genruntimeconfig.cache
 C:\repo\tareareenviodte\API_Tienda\AccesoADatos\obj\Debug\net6.0\ref\AccesoADatos.dll
