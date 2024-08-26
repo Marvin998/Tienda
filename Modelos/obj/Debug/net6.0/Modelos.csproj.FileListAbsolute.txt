@@ -1,0 +1,12 @@
+C:\repo\tareareenviodte\API_Tienda\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\repo\tareareenviodte\API_Tienda\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\repo\tareareenviodte\API_Tienda\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\Modelos.pdb
+C:\repo\tareareenviodte\API_Tienda\Modelos\obj\Debug\net6.0\ref\Modelos.dll
